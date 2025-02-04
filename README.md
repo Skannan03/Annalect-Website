@@ -1,6 +1,6 @@
 Hello There Viewers !!!!!
 I Started this project just for fun to test the features present inthe company that im working. I learned a lot of new things that are present in the website ,
-I have tested most of the important features present in the website and 
+I have tested most of the important features present in the website 
 
 Some of the things that i learned are ....
 :- How to code based on Design pattern and Repo pattern 
